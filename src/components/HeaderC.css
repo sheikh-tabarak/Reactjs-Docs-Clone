@@ -1,0 +1,124 @@
+.topbar{
+background-color: #16181D;
+color:white;
+text-align: center;
+padding: 15px;
+font-size: 18px;
+font-family:Arial, Helvetica, sans-serif;
+position: fixed;
+top: 0px;
+width: 100%;
+z-index: 1;
+
+}
+
+.link{
+     color: #61DAFB;
+    text-decoration: none;
+   
+}
+
+.header-full{
+
+    background-color: #20232A;
+    padding-left:80px;
+    padding-right:80px;
+    display: grid;
+    grid-template-columns: 25px 200px 400px 240px 300px;
+
+    position: fixed;
+top: 50px;
+z-index: 1;
+}
+
+.header-logo{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.header-logo-text,.header-logo-text a{
+    color: #61DAFB;
+    padding-left: 5px;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    font-weight: 800;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+
+.item{
+    color:white;
+    float: left;
+    padding: 20px;
+    border:  solid #20232A;
+    border-width:  0px 0px 2px 0px;
+}
+
+.item:hover{
+    color:#61DAFB;
+    float: left;
+    padding: 20px;
+    border:  solid #61DAFB;
+    border-width:  0px 0px 2px 0px;
+}
+
+.item:active{
+    color:#61DAFB;
+    float: left;
+    padding: 20px;
+    border:  solid #61DAFB;
+    border-width:  0px 0px 2px 0px;
+}
+
+.header-search-form{
+    padding: 12px;
+}
+
+
+.form-field{
+background-color: #20232A;
+padding: 10px;
+-webkit-appearance: none;
+border: none; /* Removes the default border */
+outline: none /* Removes the border when the input is clicked */
+}
+.form-field:focus{
+    background-color: #373940;
+    padding: 10px;
+    border-color: #20232A;
+    -webkit-appearance: none;
+    border: none; /* Removes the default border */
+    outline: none /* Removes the border when the input is clicked */
+
+    }
+
+    .item2{
+        color:white;
+        float: left;
+        padding-left:10px;
+        padding-right:10px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        
+    }
+
+    .item2:hover{
+        color:#61DAFB;
+   
+        padding-left:10px;
+        padding-right:10px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        
+    }
+
+    .item2:active{
+        color:#61DAFB;
+   
+        padding-left:10px;
+        padding-right:10px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        
+    }
