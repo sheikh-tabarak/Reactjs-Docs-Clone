@@ -7,8 +7,8 @@ import HeaderC from './components/HeaderC';
  import Sidebar from './components/Sidebar';
  import ContentArea from './components/ContentArea';
  import Footer from './components/Footer'
-// import Entry from './components/Entry';
-// import AllEntries from "./components/AllEntries";
+//  import Entry from './components/Entry';
+//  import AllEntries from "./components/AllEntries";
 
 
 
